@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridRecyclerView</string>
+    <string name="menu_main_title_prev_page">Предыдущая страница</string>
+    <string name="menu_main_title_next_page">Следующая страница</string>
+</resources>
